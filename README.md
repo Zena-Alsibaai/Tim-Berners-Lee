@@ -1,15 +1,14 @@
 # Tim-Berners-Lee
-</br>
-_Who is he ?_
 
-</br>
-Tim Berners-Lee invented the World Wide Web in 1989.
+This project is about [ Tim-Berners-Lee ](https://en.wikipedia.org/wiki/Tim_Berners-Lee) 
 
 
-</br>
-This project is done with HTML and CSS for understanding the fondumantals of HTML and CSS
+And I did it following a mockup for practicing HTML ans CSS.
 
-We have to integrate a mockup desgin for more exercice what we're learning
+[Here We Go](https://zena-alsibaai.github.io/Tim-Berners-Lee/)
+
+
+
 
 
 
